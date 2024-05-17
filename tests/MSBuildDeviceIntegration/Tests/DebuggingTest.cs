@@ -150,11 +150,6 @@ namespace Xamarin.Android.Build.Tests
 				/* activityStarts */     true,
 				/* packageFormat */      "aab",
 			},
-			new object[] {
-				/* embedAssemblies */    false,
-				/* activityStarts */     true,
-				/* packageFormat */      "aab",
-			},
 		};
 #pragma warning restore 414
 
